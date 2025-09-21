@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|c:\\users\\gizem\\source\\repos\\notikaidentityemail\\notikaidentityemail\\views\\register\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|solutionrelative:notikaidentityemail\\views\\register\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|c:\\users\\gizem\\source\\repos\\notikaidentityemail\\notikaidentityemail\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|solutionrelative:notikaidentityemail\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|c:\\users\\gizem\\source\\repos\\notikaidentityemail\\notikaidentityemail\\models\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|solutionrelative:notikaidentityemail\\models\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Views\\Register\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "NotikaIdentityEmail\\Views\\Register\\CreateUser.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Views\\Register\\CreateUser.cshtml",
+              "RelativeToolTip": "NotikaIdentityEmail\\Views\\Register\\CreateUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T19:36:05.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Models\\RegisterUserViewModel.cs",
+              "RelativeDocumentMoniker": "NotikaIdentityEmail\\Models\\RegisterUserViewModel.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Models\\RegisterUserViewModel.cs",
+              "RelativeToolTip": "NotikaIdentityEmail\\Models\\RegisterUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:22:51.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "NotikaIdentityEmail\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "NotikaIdentityEmail\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:42:04.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
