@@ -42,7 +42,7 @@ namespace NotikaIdentityEmail.Controllers
                     ModelState.AddModelError("", item.Description);
                 }
                 //İlk parametre "" (boş string): Bu, genel bir hata olduğunu ifade eder. Yani bir field'a bağlı olmayan hatadır.  Eğer "Email" yazsaydık, hata sadece Email alanına bağlı olurdu.
-                return View();
+                return View(model);
             }
         }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotikaIdentityEmail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf17b4480c4bb310e2ddf1ee3d039cb5c3afc6e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotikaIdentityEmail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotikaIdentityEmail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

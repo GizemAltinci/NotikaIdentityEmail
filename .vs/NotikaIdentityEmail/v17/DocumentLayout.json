@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|c:\\users\\gizem\\source\\repos\\notikaidentityemail\\notikaidentityemail\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|solutionrelative:notikaidentityemail\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|c:\\users\\gizem\\source\\repos\\notikaidentityemail\\notikaidentityemail\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|solutionrelative:notikaidentityemail\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|c:\\users\\gizem\\source\\repos\\notikaidentityemail\\notikaidentityemail\\views\\register\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|solutionrelative:notikaidentityemail\\views\\register\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|c:\\users\\gizem\\source\\repos\\notikaidentityemail\\notikaidentityemail\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|solutionrelative:notikaidentityemail\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|c:\\users\\gizem\\source\\repos\\notikaidentityemail\\notikaidentityemail\\models\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DCC7406-6419-469E-A7A4-C4205F5AE959}|NotikaIdentityEmail\\NotikaIdentityEmail.csproj|solutionrelative:notikaidentityemail\\models\\registeruserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CreateUser.cshtml",
               "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Views\\Register\\CreateUser.cshtml",
               "RelativeDocumentMoniker": "NotikaIdentityEmail\\Views\\Register\\CreateUser.cshtml",
               "ToolTip": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Views\\Register\\CreateUser.cshtml",
               "RelativeToolTip": "NotikaIdentityEmail\\Views\\Register\\CreateUser.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-21T19:36:05.117Z",
+              "WhenOpened": "2025-09-22T20:11:02.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterUserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Models\\RegisterUserViewModel.cs",
-              "RelativeDocumentMoniker": "NotikaIdentityEmail\\Models\\RegisterUserViewModel.cs",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Models\\RegisterUserViewModel.cs",
-              "RelativeToolTip": "NotikaIdentityEmail\\Models\\RegisterUserViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T19:22:51.234Z",
+              "DocumentIndex": 0,
+              "Title": "UserLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Views\\Login\\UserLogin.cshtml",
+              "RelativeDocumentMoniker": "NotikaIdentityEmail\\Views\\Login\\UserLogin.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Views\\Login\\UserLogin.cshtml",
+              "RelativeToolTip": "NotikaIdentityEmail\\Views\\Login\\UserLogin.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T20:03:57.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RegisterController.cs",
               "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "NotikaIdentityEmail\\Controllers\\RegisterController.cs",
               "ToolTip": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Controllers\\RegisterController.cs",
               "RelativeToolTip": "NotikaIdentityEmail\\Controllers\\RegisterController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T18:42:04.326Z",
+              "WhenOpened": "2025-09-22T19:58:13.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "NotikaIdentityEmail\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\NotikaIdentityEmail\\NotikaIdentityEmail\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "NotikaIdentityEmail\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T19:05:41.845Z",
               "EditorCaption": ""
             }
           ]
